@@ -7,3 +7,5 @@ one possible. All the code is available in this repo.
 
 This project has many chances to imporve. Currently, the project is very inefficent, and by using Object Oriented Programming, it is possible
 to further enhance the efficency.
+
+Do note that LinkedIn does not allow any bots or webscrapers to take information of their site, so discretion is adviced.
